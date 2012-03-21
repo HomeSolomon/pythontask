@@ -1,0 +1,9 @@
+#import json;
+import os;
+def searchrepo():#Complete (Enter any name of repo, searches from all repos on github server)
+    
+    se="curl http://github.com/api/users/" + (raw_input("Enter user name:")) + " > username.txt";
+    os.system(se);
+    f = open("username.txt");
+#    d = json.load(f);
+    print d

@@ -1,0 +1,15 @@
+/home/solomon/Downloads/ecoder-0.4.10/code/edit/filename.php
+/home/solomon/exam/4/4.l =_ input RE and filename and output string matched to re from file
+/host/NetBeans 6.9.1/ruby/jruby-1.5.1/lib/ruby/gems/1.8/gems/activerecord-2.3.8/test/fixtures/categories/subsubdir/arbitrary_filename.yml
+/usr/lib/erlang/lib/stdlib-1.16.4/ebin/filename.beam
+/usr/lib/vlc/lua/meta/reader/filename.luac
+/usr/share/apps/ksgmltools2/docbook/xsl/params/root.filename.xml
+/usr/share/apps/ksgmltools2/docbook/xsl/params/targets.filename.xml
+/usr/share/apps/ksgmltools2/docbook/xsl/params/use.id.as.filename.xml
+/usr/share/doc/docbook-defguide/html/filename.html
+/usr/share/doc/wx2.8-doc/wx-manual.html/wx_wxfilename.html
+/usr/share/lintian/data/debhelper/filename-config-files
+/usr/share/man/man3/BIO_append_filename.3ssl.gz
+/usr/share/man/man3/BIO_read_filename.3ssl.gz
+/usr/share/man/man3/BIO_rw_filename.3ssl.gz
+/usr/share/man/man3/BIO_write_filename.3ssl.gz

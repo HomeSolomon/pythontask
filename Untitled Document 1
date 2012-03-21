@@ -1,0 +1,7 @@
+for dirname, dirnames, filenames in os.walk(path[0]):
+		    for subdirname in dirnames:
+		        Folders.append(os.path.join(dirname, subdirname))
+		    for filename in filenames:
+		    	ext = os.path.splitext(filename)[-1][1:]
+		    	Files.append(os.path.join(dirname, filename))
+		

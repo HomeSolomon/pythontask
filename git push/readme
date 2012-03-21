@@ -1,0 +1,12 @@
+Requirements-
+*install
+1)python jsonpickle
+2)python-cjson
+3)python-anyjson
+    from synaptic package manager
+    
+* sudo apt-get install openssh
+
+
+If you are a new user, execute the addkey.py file first, then execute the git.py
+
